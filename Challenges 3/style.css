@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+h1 {font-family: 'Prata', serif;
+font-size: 64px;
+font-weight: 400;
+margin-bottom: 0;
+}
+h3 {font-family: 'Prata', serif;
+font-size: 24px;
+font-weight: 400;
+margin-top: 0;
+margin-bottom: 0;
+}
+h6 {padding: 22px;
+margin-bottom: 0px;
+margin-top: 56px;
+background: linear-gradient(90deg, #aee6c1, rgba(233, 54, 167, 0.219));
+color: rgb(66, 105, 105);
+}  
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+.link-author{
+  font-weight: 600;
+  font-style: italic;
+}
+.main-section{padding: 20px;}
+  .image-container{
+    height: 500px;
+  background-image: url(Aurora-boreale.jpeg);
+  background-position: 30% 75%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+li {padding-top: 6px;
+  padding-bottom: 6px;
+  border-bottom: 1px;
+padding-left: 22px;
+color: #dfdfdf;
+}
+.luoghi{color: #55b977;
+text-decoration: none;}
+.luoghi:hover{color: rgb(243, 120, 212);}
